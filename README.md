@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ellenmelo19
-- 👀 I’m interested in Python and JAVA programming languages. I also really like art and music.
+- 👀 I’m interested in FullStack Development, with React and NestJS. I also really like art and music.
 - 🌱 I’m currently learning Java and improving my knowledge of Backend Development and I am enthusiastic about DevOps studies..
 - 📫 How to reach me: send an email to ellen.melo156@gmail.com !
 
