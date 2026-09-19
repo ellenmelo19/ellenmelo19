@@ -2,6 +2,8 @@
 - 👀 I’m interested in FullStack Development, with React and NestJS. I also really like art and music.
 - 🌱 I’m currently learning Java and improving my knowledge of Backend Development and I am enthusiastic about DevOps studies..
 - 📫 How to reach me: send an email to ellen.melo156@gmail.com !
+  
+[![roadmap.sh](https://roadmap.sh/card/wide/6620ffe8243716955f184bd1?variant=dark&roadmaps=javascript%2Capi-design%2Cgraphql)](https://roadmap.sh)
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ellenmelo19&utm_content=line">
   <img
@@ -11,8 +13,3 @@
   />
 </a>
   
-  
-<!---
-ellenmelo19/ellenmelo19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
